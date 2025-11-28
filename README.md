@@ -8,7 +8,7 @@ Projects I completed during the 100 Days of Code - Python Udemy course. Master P
 | Day | Project | Day | Project |
 |-----|---------|-----|---------|
 | 1 | [Band Name Generator](https://github.com/Harry-Hacks/100-Days-of-Python/blob/main/Day1/Day1_project) | 11 | Blackjack |
-| 2 | Tip Calculator | 12 | Number Guess |
+| 2 | [Tip Calculator](https://github.com/Harry-Hacks/100-Days-of-Python/blob/main/Day2/Day2_project.py) | 12 | Number Guess |
 | 3 | Treasure Island | 13 | Debugging |
 | 4 | Rock Paper Scissors | 14 | Higher Lower |
 | 5 | Password Generator | 15 | Coffee Machine |
