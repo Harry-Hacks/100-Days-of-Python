@@ -19,7 +19,3 @@ A text based adventure game where the player makes choices that determine whethe
    - A win by finding the treasure
    - A loss due to a wrong path or dangerous choice
 5. The program ends with either a victory message or a game over message.
-
-## How to Run
-```bash
-python main.py
