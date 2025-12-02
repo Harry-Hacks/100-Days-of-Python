@@ -16,3 +16,6 @@ A program that calculates the total bill including tip and splits it between any
 3. The program calculates the final total including tip.
 4. The total is divided by the number of people.
 5. The result displays the amount each person should pay.
+
+## Example Output
+<img width="449" height="75" alt="Screenshot 2025-12-02 at 1 03 27 AM" src="https://github.com/user-attachments/assets/06a4e1b9-b07f-4640-a4a0-4e5901289860" />
