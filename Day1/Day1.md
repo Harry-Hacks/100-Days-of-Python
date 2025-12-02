@@ -15,3 +15,6 @@ A simple program that generates a fun band name based on two user inputs: their 
 2. It then asks for their pet's name.
 3. The two inputs are combined to form a creative band name.
 4. The final band name is printed for the user.
+
+## Example Output
+<img width="352" height="83" alt="Screenshot 2025-12-02 at 1 04 32 AM" src="https://github.com/user-attachments/assets/f3f1e400-3553-428e-b914-e99ff846012d" />
