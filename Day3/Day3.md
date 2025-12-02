@@ -19,3 +19,6 @@ A text based adventure game where the player makes choices that determine whethe
    - A win by finding the treasure
    - A loss due to a wrong path or dangerous choice
 5. The program ends with either a victory message or a game over message.
+
+## Example Output
+<img width="972" height="449" alt="Screenshot 2025-12-02 at 1 02 09 AM" src="https://github.com/user-attachments/assets/c0c55eb7-ccfe-4130-9df3-75803414c09b" />
